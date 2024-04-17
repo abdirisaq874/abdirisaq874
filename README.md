@@ -8,6 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/abdirisaqabdir1" target="blank"><img src="https://img.shields.io/twitter/follow/abdirisaqabdir1?logo=twitter&style=for-the-badge" alt="abdirisaqabdir1" /></a> </p>
 
+<p align="left"> 
+
+<a href="https://www.linkedin.com/in/abdirisakyusuf" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdirisakyusuf"/></a>
+
+</p>
+
+
 - 🌱 I’m currently learning **master of software engineering**
 - 👀 I’m interested in software development and Artificial intelligence developing
 - 💞️ I’m looking to collaborate on github
